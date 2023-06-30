@@ -9,6 +9,12 @@ I'm Joubert Natividade, Fullstack Developer, passionate about technology.
   </a> 
 </div>
 
+<br><br>
+
+ <div align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoubertNatividade&theme=dark&hide_border=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoubertNatividade&layout=compact&theme=dark"/>
+  </div>
   
 <br><br>
 
