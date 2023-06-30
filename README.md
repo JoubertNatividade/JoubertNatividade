@@ -9,6 +9,7 @@ I'm Joubert Natividade, Fullstack Developer, passionate about technology.
   </a> 
 </div>
 
+<br><br>
 - 🔭 Currently working as a FullStack
 - 🌱 Currently focused on GoLang, AWS
 
